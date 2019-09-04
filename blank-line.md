@@ -1,7 +1,7 @@
-##Problem##
+## Problem
 
 Problem description
 
-##Solution##
+## Solution
 
 Solution description
